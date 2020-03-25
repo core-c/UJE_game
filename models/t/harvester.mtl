@@ -1,0 +1,24 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Metal_Galvanized
+Ka  0.000000 0.000000 0.000000
+Kd  0.592157 0.666667 0.749020
+Ks  0.900000 0.900000 0.900000
+d  1.000000
+Ns  16.900000
+illum 2
+map_Kd Galvplat.jpg
+map_d Galvplat.jpg
+#
+newmtl Concrete_Asphalt
+Ka  0.100000 0.100000 0.100000
+Kd  0.500000 0.500000 0.500000
+Ks  0.900000 0.900000 0.900000
+d  1.000000
+Ns  5.000000
+illum 2
+map_Kd Asphalt3.jpg
+map_Ks Asphalt3.jpg
+bump Asphalt3.jpg
+#
+# EOF

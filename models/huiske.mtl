@@ -1,0 +1,8 @@
+# Exported from DeleD's Wavefront OBJ Exporter 1.0
+# Visit http://www.delgine.com for more information.
+newmtl Floor02
+map_Kd C:\Program Files\DeleD LITE\Textures\Floor02.jpg
+newmtl Roof03
+map_Kd C:\Program Files\DeleD LITE\Textures\Roof03.jpg
+newmtl Wall10
+map_Kd C:\Program Files\DeleD LITE\Textures\Wall10.jpg

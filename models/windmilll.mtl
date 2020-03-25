@@ -1,0 +1,13 @@
+# Blender3D MTL File: Models.blend
+# Material Count: 1
+newmtl Material
+map_Kd S:\RTS\models\GALVPLAT.JPG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.438923 0.189897 0.189897
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
